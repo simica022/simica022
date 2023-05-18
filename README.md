@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @simica022
 - 👀 I’m interested in machine learning and web applications
 - 🌱 I’m currently learning statistics
-- 💞️ I’m looking to collaborate on any fun project will people from whom I can learn
+- 💞️ I’m looking to collaborate on any fun project with people whom I can learn from
 - 📫 How to reach me --> ssaric21@gmail.com
 
 <!---
