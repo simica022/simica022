@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @simica022
 - 👀 I’m interested in machine learning and web applications
-- 🌱 I’m currently learning react & django
+- 🌱 I’m currently learning Spring Boot
 - 💞️ I’m looking to collaborate on any fun project with people whom I can learn from
 - 📫 How to reach me --> ssaric21@gmail.com
 
